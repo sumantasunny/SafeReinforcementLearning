@@ -48,5 +48,7 @@ $ python3 plot_score.py
 
 # Running the Jupyter Notebook
 
+You can see the Jupyter Notebook [here](https://github.com/hildebrandt-carl/SafeReinforcementLearning/blob/master/Code/envs/self-driving-car/FinalProject.ipynb).
+
 Launch the notebook
 $ jupyter notebook
